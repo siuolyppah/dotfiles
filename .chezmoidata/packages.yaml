@@ -71,6 +71,7 @@ packages:
           - "fzf" # required by fish alias
 
         aur:
+          - "ttf-jetbrains-mono-nerd"
           - "google-chrome"
 
           # disabled: download may fail under proxy

@@ -8,6 +8,7 @@ function module.apply_to_config(c)
 
   -- check with `wezterm ls-fonts`
   c.font = wezterm.font_with_fallback {
+    { family = "JetBrainsMono Nerd Font Mono" },
     { family = "Zed Plex Mono" },
     { family = "JetBrains Mono" },
   }

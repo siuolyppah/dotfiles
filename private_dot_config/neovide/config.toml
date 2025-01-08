@@ -5,18 +5,18 @@ hinting = "full"
 edging = "antialias"
 
 [[font.normal]]
-family = "Zed Plex Mono"
+family = "JetBrainsMono Nerd Font Mono"
 style = "Regular"
 
 [[font.bold]]
-family = "Zed Plex Mono"
+family = "JetBrainsMono Nerd Font Mono"
 style = "Bold"
 
 
 [[font.italic]]
-family = "Zed Plex Mono"
+family = "JetBrainsMono Nerd Font Mono"
 style = "Italic"
 
 [[font.bold_italic]]
-family = "Zed Plex Mono"
+family = "JetBrainsMono Nerd Font Mono"
 style = "Bold Italic"
